@@ -8,7 +8,6 @@ AlphaMind is meant to make that experience available during the next incident. A
 
 The point is to carry confirmed lessons forward so we are less likely to repeat the same investigation or mistake. AlphaMind does not execute commands or change production systems.
 
-![Diagram: AlphaMind recalls past incidents to guide a human, then retains a confirmed outcome for future incidents.](alphamind-memory-flow.png)
 
 ## Why persistent memory belongs in incident response
 
